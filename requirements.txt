@@ -1,1 +1,4 @@
 fiftyone
+torch torchvision umap-learn
+scikit-learn fiftyone
+umap-learn git+https://github.com/openai/CLIP.git
